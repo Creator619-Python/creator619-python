@@ -22,8 +22,6 @@ Not portfolio pieces. Deployed products with real adoption.
 
 | Tool | What It Does | Users |
 |------|-------------|-------|
-| [**ESG Analyser**](https://esg-analyser-frnfwc5ddfzfwxp23czsn5.streamlit.app/) | AI-powered ESG disclosure screening · GRI 200/300/400 · BRSR · GHG Protocol · section-aware detection | 146+ |
-| [**Sustainability ROI Calculator**](https://creator619-python.github.io/Sustainability-ROI-Calculator/) | DCF/NPV-based investment calculator · IEA 2023 / IPCC AR6 emission factors · 170+ currencies | 285+ |
 | [**OmniESG**](https://chatgpt.com/g/g-693eb13aa6008191b59feb7fe4f100a8-omniesg) | GPT-based ESG advisory tool translating GRI and GHG Protocol into actionable guidance | 200+ interactions |
 | [**GHG Calculator — Anaesthetic Gases**](https://creator619-python.github.io/Carbon-Accounting-Anesthetic-Gases-/) | Scope 1 emissions calculator using GWP100 for healthcare anaesthetic gases — a gap in standard carbon inventories | Niche · high accuracy |
 | [**Carbon Guardian**](https://microsoftedge.microsoft.com/addons/detail/carbon-guardian/gkmpelcpkghonhkdcicbgdjnkiigjghm) | Privacy-first browser extension measuring real-time website carbon footprints · live emissions + green hosting data | Published · Edge Store |
@@ -72,7 +70,6 @@ The tools are what the operational work made necessary.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokul_Krishna-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/gokul-k-148624117)
 [![Email](https://img.shields.io/badge/Email-gokulk122@gmail.com-D14836?style=flat&logo=gmail)](mailto:gokulk122@gmail.com)
-[![ESG Analyser](https://img.shields.io/badge/ESG_Analyser-Live_App-FF4B4B?style=flat&logo=streamlit)](https://esg-analyser-frnfwc5ddfzfwxp23czsn5.streamlit.app/)
 
 ---
 
